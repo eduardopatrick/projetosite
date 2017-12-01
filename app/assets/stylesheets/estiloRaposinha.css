@@ -1,0 +1,286 @@
+#bg {
+  background-color: orange;
+  margin-left: 0px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-bottom: 5px;
+}
+#logoraposinha{
+  width: 250px;
+  height: auto;
+}
+
+#sloganRevista{
+color: white; text-shadow: black 0.1em 0.1em 0.2em;
+font-size: 70px;
+font-family: Baar Sophia;
+}
+
+.navbar {
+background-color: #D2691E;
+font-family: Baar Sophia;
+width: 100%;
+height: auto;
+}
+
+#header{
+  font-family: Baar Sophia;
+}
+
+#artigos{
+  font-family: Baar Sophia;
+}
+
+#videos{
+  font-family: Baar Sophia;
+  border-color: #FFF;
+  border:10px;
+
+}
+
+
+#titulodoartigo {
+  text-align: center;
+  color: white; text-shadow: black 0.1em 0.1em 0.2em;
+  font-family: Baar Sophia;
+}
+
+body {
+background-image: url('./wallpaper.jpg');
+
+}
+
+button {
+background-color: #b6701d;
+}
+
+.nav-link {
+
+  font-size: 30px;
+}
+
+@import url("http://maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+
+#footer {
+    border-top: 5px solid #CDB380;
+    background: #db7318 none repeat scroll 0% 0%;
+    padding-top: 30px;
+    margin-top: 60px;
+    clear: both;
+    color: #AAA;
+    display: block;
+    font-family: Baar Sophia;
+}
+
+#footer .widgettitle {
+    margin: 0px;
+    padding: 0px 0px 15px;
+    border-bottom: medium none;
+}
+#footer h4 {
+    color: #FFF;
+}
+
+#footer ul {
+    list-style: outside none none;
+}
+
+#footer li {
+    padding: 7px 0px;
+    border-bottom: 1px dotted rgba(255, 255, 255, 0.2);
+    margin: 0px;
+}
+
+#footer li a {
+    color: #DDD;
+}
+
+#sub-floor {
+    color: #AAA;
+    background: #031634 none repeat scroll 0% 0%;
+    padding: 10px 0px;
+}
+
+#sub-floor {
+  background-color: #281e05;
+  }
+
+  /* single slide at once */
+  .carousel-inner .active.left {left: -33%;}
+  .carousel-inner .next        {left:  33%;}
+  .carousel-inner .prev        {left: -33%;}
+  .carousel-item.active.left   {opacity:0.3;}
+  .carousel-item.active.right  {opacity:0.3;}
+
+  .carousel-item.active.left > div:not(:first-child) {
+      display:none;
+  }
+  .carousel-item.active.right > div:not(:first-child) {
+      display:none;
+  }
+
+  .carousel-control {
+      color:#333;
+   }
+  .carousel-control.left,
+  .carousel-control.right {background-image:none;}
+
+header {
+   margin-left: auto;
+   margin-right: auto;
+   width:auto;
+   height:auto;
+   font-size: 150px;
+   text-decoration-color: red;
+   font-family: Baar Sophia;
+   foregroundcolor: red;
+
+}
+#carouselExampleIndicators h1,
+#carouselExampleIndicators p {
+  color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#carouselExampleIndicators p {
+ font-size: 70px;
+
+}
+
+#imgdosslides {
+  height: 600px;
+  width: 1000px;
+  margin-top: 150px;
+}
+
+#next {
+  position:right;
+    top: 1.0em;
+}
+#prev{
+  position: left;
+    top: 1.0em;
+}
+
+
+.mac {
+  margin-right: auto;
+  margin-left: auto;
+  display:block;
+  width:700px;
+  border-color: #FFF;
+  border:10px;
+}
+
+#navbarsExample02{
+  /*margin-left: 600px;*/
+}
+#deescriçãodoartigo{
+  color: white; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+#podcast{
+  background-color: #D2691E;
+  border-radius: 10px;
+  height: 50px;
+  width: auto;
+}
+#barrinhamp3{
+  margin-left: 50px;
+  margin-top: 10px;
+}
+#podcast-infos {
+    color: #fff; text-shadow: black 0.1em 0.1em 0.2em;
+    background-color: #ff8f1b;
+    padding: 0 0 15px 0;
+    font-size: 14px;
+    margin-left: auto;
+    margin-top: -20px;
+}
+#tituloartigo{
+  color: #fff; text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#subtituloartigo{
+  color: #fff; text-shadow: black 0.1em 0.1em 0.2em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+element.style {
+}
+gp-core.css:1
+.download-podcast {
+    background: url(/images/download-ico.png) no-repeat left top;
+    color: #8c88fc;
+}
+
+#next{
+  margin-left: auto;
+
+}
+
+#prev{
+  margin-right: auto;
+}
+
+
+#postagens{
+  color: #D2691E;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: #fff; text-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.card {
+    /*position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;*/
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #D2691E;
+    background-clip: border-box;
+    border: 10px solid rgba(0,0,0,.125);
+    border-radius: 10px;
+    border-color: #fff;
+}
+
+#bt1{
+  background-color: #ff8f1b;
+}
+
+
+#bt2{
+  background-color: #ff8f1b;
+}
+
+#imaginha{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+
+#v{
+  background-color: #ff8f1b;
+  border-radius: 10px;
+  border-color: #FFF;
+  background-clip: border-box;
+
+}
+
+
+#artigo1{
+  border: 10px;
+  border-color: #FFF;
+  background-color: #ff8f1b;
+  border-radius: 10px;
+}
